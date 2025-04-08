@@ -1,6 +1,6 @@
 # EEG Emotion Classification with Transformers (PyTorch)
 
-[![Run in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SoroushZare/NeuroMood/blob/main/train.py)
+[![Run in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SoroushZare/NeuroMood/blob/main/train_colab.ipynb)
 
 🚀 Transformer-based classifier for emotional state prediction from EEG signals. Built with PyTorch.
 
